@@ -1,0 +1,106 @@
+-----------------VARIABLE-----------------------------
+'Display of the value of the variable in a dialog box
+Sub variables()
+
+    'Declaration of the variable
+    Dim myVariable As Integer
+	
+    'Attribution of a value to the variable
+    myVariable = 12
+	
+    'Display of the value of myVariable in a MsgBox
+    MsgBox myVariable
+	
+End Sub
+-------------------LES CELLULES EXCEL----------------------------------
+Range("A1")=Cells(1,1)
+-----------------------TABLEAU-----------------------------------------
+dim array(l,c) as double
+---------------------STRUCTURE-----------------------------------------
+Type nom
+	attr1 as String
+	attr2 as String
+End Type
+
+dim n as nom
+n.attr1= "value1"
+n.attr2= "value2"
+-----------------CONDITIONS--------------------------------------------
+If [CONDITION 1] Then 
+    'Instructions 1 '
+ElseIf [CONDITION 2] 
+    'Instructions 2 '
+Else 
+    'Instructions 3 '
+End If
+--------------------CASE-----------------------------------------------
+
+    Dim grade As Single, comment As String
+    grade = Range("A1")
+    
+  
+    Select Case grade 
+        Case Is = 6
+            comment = "Excellent result!"
+        Case Is >= 5
+            comment = "Good result"
+        Case Is >= 4
+            comment = "Satisfactory result"
+        Case Is >= 3
+            comment = "Unsatisfactory result"
+        Case Is >= 2
+            comment = "Bad result"
+        Case Is >= 1
+            comment = "Terrible result"
+        Case Else
+            comment = "No result"
+    End Select
+-----------------DEFINED FUNCTIONS-------------------------------------------
+The IsNumeric function (seen on the previous page) returns True if the value is numeric and False if it's not:
+The IsDate function returns True if the value is a date or False if it's not:
+The Day function allows to extract the day from a date:
+
+If Day(Range("A1")) = 1 Then 'If it is the first day of the month
+The Year function allows to extract the year from a date:
+
+If Year(Range("A1")) = 2024 Then 'If it is a date from the year 2024
+The Weekday function returns the number of the day of the week:
+
+If Weekday(Range("A1"), 2) >= 6 Then 'If it is a Saturday or Sunday
+The Date function returns the current date:
+
+If Range("A1") < Date Then 'If the date has passed
+The IsEmpty function returns False if the variable has been initialized or True if it hasn't:
+------------------------BOUCLES-------------------------------------------------------------
+1/Do While [CONDITION]
+        'Instructions
+    Loop
+
+2/ Do
+        'Instructions
+    Loop While [CONDITION]
+
+3/ Do Until [CONDITION]
+        'Instructions
+    Loop
+
+4/For i = 1 To 5 Step 1
+        'Instructions
+    Next
+
+5/ For Each cell In Range("A1:B3")
+        cell = cell.Address
+    Next
+
+Exit Do/Sub/Function
+
+
+-----------------------------DIALOGUE BOX----------------------------------------------------------------
+MsgBox([TEXT], [BUTTONS], [TITLE]) 
+Text => message
+Buttons => voir cours
+Title => titre du prompt
+MsgBox("Text", vbYesNoCancel + vbExclamation + vbDefaultButton2, "Title")
+
+InputBox("Text?", "Title", "Default Value") same as MsgBox but you can enter data/information
+------------------------------------------------------------------------------------------------------

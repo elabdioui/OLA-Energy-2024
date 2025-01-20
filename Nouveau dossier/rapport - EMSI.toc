@@ -1,0 +1,246 @@
+\babel@toc {french}{}\relax 
+\contentsline {chapter}{Table des figures}{viii}{}%
+\contentsline {chapter}{\numberline {1}Présentation de l'entreprise}{2}{}%
+\contentsline {section}{\numberline {1.1}OLA Energy : Une Présence Ancrée en Afrique}{2}{}%
+\contentsline {section}{\numberline {1.2}Vision}{2}{}%
+\contentsline {section}{\numberline {1.3}Mission}{2}{}%
+\contentsline {section}{\numberline {1.4}Valeurs}{2}{}%
+\contentsline {section}{\numberline {1.5}Histoire d'OLA Energy}{3}{}%
+\contentsline {section}{\numberline {1.6}Organigramme de OLA Energy}{3}{}%
+\contentsline {section}{\numberline {1.7}Déscription de la gestion des inventaires et stocks utiliser par l'entreprise}{4}{}%
+\contentsline {chapter}{\numberline {2}Analyse et définition des besoins}{5}{}%
+\contentsline {section}{\numberline {2.1}Détermination des fonctionnalités}{5}{}%
+\contentsline {section}{\numberline {2.2}Étude du système déja existant}{5}{}%
+\contentsline {subsection}{\numberline {2.2.1}Structure du Code et Modularité :}{6}{}%
+\contentsline {subsection}{\numberline {2.2.2}Utilisation des Fonctions Prédéfinies :}{6}{}%
+\contentsline {subsection}{\numberline {2.2.3}Gestion des Erreurs :}{7}{}%
+\contentsline {subsection}{\numberline {2.2.4}Rigidité du Système :}{7}{}%
+\contentsline {subsection}{\numberline {2.2.5}Type d'Interface :}{7}{}%
+\contentsline {subsection}{\numberline {2.2.6}Sécurité :}{7}{}%
+\contentsline {section}{\numberline {2.3}Objectifs principales}{8}{}%
+\contentsline {subsection}{\numberline {2.3.1}Amélioration de la Modularité et de la Maintenance du Code}{8}{}%
+\contentsline {subsection}{\numberline {2.3.2}Optimisation de la Flexibilité des Fonctions}{8}{}%
+\contentsline {subsection}{\numberline {2.3.3}Renforcement de la Gestion des Erreurs et de la Cohérence des Données}{9}{}%
+\contentsline {subsection}{\numberline {2.3.4}Amélioration de la Flexibilité et de l’Adaptabilité du Système}{9}{}%
+\contentsline {subsection}{\numberline {2.3.5}Renforcement de la Sécurité des Données}{9}{}%
+\contentsline {subsection}{\numberline {2.3.6}Création d’une Interface Dynamique et Intuitive}{9}{}%
+\contentsline {section}{\numberline {2.4}Définition des besoins}{10}{}%
+\contentsline {subsection}{\numberline {2.4.1}Gestion des utilisateurs}{10}{}%
+\contentsline {subsubsection}{Administrateur}{10}{}%
+\contentsline {subsubsection}{Manager}{10}{}%
+\contentsline {subsubsection}{Magasinier}{11}{}%
+\contentsline {subsubsection}{Sales}{11}{}%
+\contentsline {subsubsection}{Réconciliation}{11}{}%
+\contentsline {subsection}{\numberline {2.4.2}Éviter les DEADLOCKS}{12}{}%
+\contentsline {subsubsection}{Introduction}{12}{}%
+\contentsline {subsubsection}{Définition du Deadlock}{12}{}%
+\contentsline {subsubsection}{Importance de la Prévention des Deadlocks}{12}{}%
+\contentsline {subsubsection}{Stratégies de Prévention des Deadlocks}{12}{}%
+\contentsline {subsubsection}{Conclusion}{13}{}%
+\contentsline {subsection}{\numberline {2.4.3}Développement d'une application mobile}{13}{}%
+\contentsline {subsubsection}{Introduction}{13}{}%
+\contentsline {subsubsection}{Limites d'un Système Uniquement sur PC}{13}{}%
+\contentsline {subsubsection}{Avantages d'une Application Mobile Complète}{14}{}%
+\contentsline {subsubsection}{Communication Centralisée via le Cloud et une Base de Données Unique}{14}{}%
+\contentsline {subsubsection}{Conclusion}{15}{}%
+\contentsline {chapter}{\numberline {3}Analyse Fonctionelle}{16}{}%
+\contentsline {section}{\numberline {3.1}Diagramme de cas d'utlisation}{16}{}%
+\contentsline {subsection}{\numberline {3.1.1}Définition}{16}{}%
+\contentsline {subsection}{\numberline {3.1.2}Réalisation}{16}{}%
+\contentsline {subsection}{\numberline {3.1.3}Analsye}{17}{}%
+\contentsline {subsubsection}{Introduction :}{17}{}%
+\contentsline {subsubsection}{Acteurs :}{17}{}%
+\contentsline {subsubsection}{Cas d'Utilisation :}{18}{}%
+\contentsline {subsubsection}{Relation entre les Cas d'Utilisation :}{18}{}%
+\contentsline {subsubsection}{Observations et Recommandations :}{18}{}%
+\contentsline {subsubsection}{Conclusion :}{18}{}%
+\contentsline {section}{\numberline {3.2}Outils utilisés}{19}{}%
+\contentsline {subsection}{\numberline {3.2.1}Microsoft Excel Visual Basic "VBA"}{19}{}%
+\contentsline {subsubsection}{Principales Caractéristiques de VBA dans Excel :}{19}{}%
+\contentsline {subsubsection}{Applications Pratiques de VBA dans Excel :}{19}{}%
+\contentsline {subsection}{\numberline {3.2.2}Microsoft PowerAPPS}{20}{}%
+\contentsline {subsubsection}{Avantages de Power Apps}{21}{}%
+\contentsline {subsubsection}{Applications créées avec Power Apps}{21}{}%
+\contentsline {section}{\numberline {3.3}Méthodologie}{22}{}%
+\contentsline {subsection}{\numberline {3.3.1}Reconstruction du Fichier BASSA.xlsm :}{22}{}%
+\contentsline {subsection}{\numberline {3.3.2}Développement de l'Application Mobile avec PowerApps :}{23}{}%
+\contentsline {part}{I\hspace {1em}Reconstruction du Fichier BASSA.xlsm }{24}{}%
+\contentsline {chapter}{\numberline {4}Conception de l'application desktop}{25}{}%
+\contentsline {section}{\numberline {4.1}Répartition du code}{25}{}%
+\contentsline {subsection}{\numberline {4.1.1}Les Feuilles Excel}{25}{}%
+\contentsline {subsection}{\numberline {4.1.2}Les Modules}{25}{}%
+\contentsline {subsection}{\numberline {4.1.3}Le Formulaire de Connexion}{25}{}%
+\contentsline {section}{\numberline {4.2}Mouvement sheet}{26}{}%
+\contentsline {subsection}{\numberline {4.2.1}movementCounters}{26}{}%
+\contentsline {subsubsection}{Définition et rôle de Scripting.Dictionary}{26}{}%
+\contentsline {subsubsection}{Utilisation de Scripting.Dictionary dans le Projet}{27}{}%
+\contentsline {subsubsection}{Avantages pour le Projet de Gestion des Stocks}{27}{}%
+\contentsline {subsection}{\numberline {4.2.2}InitializeCounters}{27}{}%
+\contentsline {subsubsection}{Structure de la Fonction}{27}{}%
+\contentsline {subsubsection}{Étapes d'Initialisation}{28}{}%
+\contentsline {paragraph}{Description des Clés :}{28}{}%
+\contentsline {subsubsection}{Avantages de l'Approche Utilisée}{28}{}%
+\contentsline {subsection}{\numberline {4.2.3} Worksheet Activate}{29}{}%
+\contentsline {subsubsection}{Structure et Rôle de la Fonction}{29}{}%
+\contentsline {subsubsection}{Déclaration des Variables}{29}{}%
+\contentsline {subsubsection}{Initialisation des Tableaux}{29}{}%
+\contentsline {subsubsection}{Configuration des Listes de Validation de Données}{30}{}%
+\contentsline {subsubsection}{Mise à Jour Dynamique des Colonnes}{30}{}%
+\contentsline {subsubsection}{Appel de la Fonction \texttt {CreateDropDownListFromColumnM}}{30}{}%
+\contentsline {subsection}{\numberline {4.2.4}IncrementCounter}{30}{}%
+\contentsline {subsubsection}{Importance et Utilisation dans le Projet}{30}{}%
+\contentsline {subsubsection}{Avantages de l'Approche Utilisée}{31}{}%
+\contentsline {subsection}{\numberline {4.2.5}SetValidationList}{31}{}%
+\contentsline {subsubsection}{Structure de la Fonction}{31}{}%
+\contentsline {subsubsection}{Importance et Utilisation dans le Projet}{32}{}%
+\contentsline {subsubsection}{Avantages de l'Approche Utilisée}{32}{}%
+\contentsline {subsection}{\numberline {4.2.6}Worksheet Change}{32}{}%
+\contentsline {subsubsection}{Objectif Principal}{33}{}%
+\contentsline {subsubsection}{Détection des Modifications}{33}{}%
+\contentsline {subsubsection}{Gestion des Avertissements}{33}{}%
+\contentsline {subsection}{\numberline {4.2.7}UpdateDColumn}{33}{}%
+\contentsline {subsubsection}{Objectif de la Fonction}{33}{}%
+\contentsline {subsubsection}{Explication du Code}{34}{}%
+\contentsline {subsection}{\numberline {4.2.8}UpdateH20BasedOnL19}{34}{}%
+\contentsline {subsubsection}{Objectif de la Fonction}{35}{}%
+\contentsline {subsubsection}{Description des Étapes du Code}{35}{}%
+\contentsline {subsection}{\numberline {4.2.9}UpdateL20BasedOnL19}{36}{}%
+\contentsline {subsubsection}{Objectif de la Fonction}{36}{}%
+\contentsline {subsubsection}{Étapes Clés du Code}{36}{}%
+\contentsline {section}{\numberline {4.3}Inventory}{37}{}%
+\contentsline {subsection}{\numberline {4.3.1}Workbook Open}{37}{}%
+\contentsline {subsubsection}{Objectif de la Fonction}{37}{}%
+\contentsline {subsubsection}{Description des Étapes du Code}{37}{}%
+\contentsline {subsection}{\numberline {4.3.2}Worksheet\_Change}{38}{}%
+\contentsline {subsubsection}{Objectif de la Fonction}{38}{}%
+\contentsline {subsubsection}{Description des Étapes du Code}{38}{}%
+\contentsline {subsection}{\numberline {4.3.3}Worksheet Activate}{39}{}%
+\contentsline {subsubsection}{Objectif de la Fonction}{39}{}%
+\contentsline {subsubsection}{Description des Étapes du Code}{39}{}%
+\contentsline {section}{\numberline {4.4}mouvement log}{40}{}%
+\contentsline {subsection}{\numberline {4.4.1}ExportSheetAsPDF}{40}{}%
+\contentsline {subsubsection}{Objectif de la Fonction}{40}{}%
+\contentsline {subsubsection}{Description des Étapes du Code}{40}{}%
+\contentsline {section}{\numberline {4.5}daily inventory}{41}{}%
+\contentsline {subsection}{\numberline {4.5.1}Workbook Open}{41}{}%
+\contentsline {subsubsection}{Description de la Fonction}{41}{}%
+\contentsline {subsubsection}{Exemple de Code}{42}{}%
+\contentsline {subsubsection}{Explication des Étapes du Code}{42}{}%
+\contentsline {subsection}{\numberline {4.5.2}Worksheet Activate}{42}{}%
+\contentsline {subsubsection}{Description de la Fonction}{43}{}%
+\contentsline {subsubsection}{Exemple de Code}{43}{}%
+\contentsline {subsubsection}{Explication des Étapes du Code}{43}{}%
+\contentsline {subsection}{\numberline {4.5.3}Worksheet Change}{43}{}%
+\contentsline {subsubsection}{Description de la Fonction}{44}{}%
+\contentsline {subsubsection}{Explication des Étapes du Code}{44}{}%
+\contentsline {subsubsection}{Utilisation et Importance}{44}{}%
+\contentsline {section}{\numberline {4.6}thisworkbook}{45}{}%
+\contentsline {subsection}{\numberline {4.6.1}Workbook Open}{45}{}%
+\contentsline {subsubsection}{Description de la Fonction}{45}{}%
+\contentsline {subsubsection}{Objectifs et Importance de la Fonction}{46}{}%
+\contentsline {section}{\numberline {4.7}loginform}{46}{}%
+\contentsline {subsection}{\numberline {4.7.1}ConnectButton Click}{46}{}%
+\contentsline {subsubsection}{Description de la Fonction}{46}{}%
+\contentsline {subsubsection}{Objectifs et Importance de la Fonction}{47}{}%
+\contentsline {subsection}{\numberline {4.7.2}Image1 BeforeDragOver}{47}{}%
+\contentsline {subsubsection}{Description de la Fonction}{48}{}%
+\contentsline {section}{\numberline {4.8}module 1}{48}{}%
+\contentsline {subsection}{\numberline {4.8.1}GoToMouvement}{48}{}%
+\contentsline {subsubsection}{Objectifs et Importance de la Fonction}{49}{}%
+\contentsline {subsection}{\numberline {4.8.2}GoToInventory}{49}{}%
+\contentsline {subsubsection}{Objectifs et Importance de la Fonction}{49}{}%
+\contentsline {subsection}{\numberline {4.8.3}GoToDailyINV}{50}{}%
+\contentsline {subsubsection}{Objectifs et Importance de la Fonction}{50}{}%
+\contentsline {subsection}{\numberline {4.8.4}GoToMENU}{51}{}%
+\contentsline {subsubsection}{Objectifs et Importance de la Fonction}{51}{}%
+\contentsline {section}{\numberline {4.9}module 2}{51}{}%
+\contentsline {subsection}{\numberline {4.9.1}ValidateDatesInput}{51}{}%
+\contentsline {subsubsection}{Analyse des Composants de la Fonction}{52}{}%
+\contentsline {subsubsection}{Objectifs et Importance de la Fonction}{52}{}%
+\contentsline {section}{\numberline {4.10}module 3}{53}{}%
+\contentsline {subsection}{\numberline {4.10.1}AddNewRecord}{53}{}%
+\contentsline {subsubsection}{Objectifs et Importance de la Fonction}{54}{}%
+\contentsline {subsection}{\numberline {4.10.2}InsertDataIntoDestination}{54}{}%
+\contentsline {subsubsection}{Analyse des Composants de la Fonction}{54}{}%
+\contentsline {subsection}{\numberline {4.10.3}IsLong}{55}{}%
+\contentsline {subsubsection}{Analyse des Composants de la Fonction}{55}{}%
+\contentsline {subsubsection}{Cas d'Utilisation}{56}{}%
+\contentsline {subsection}{\numberline {4.10.4}SaveMovementData}{56}{}%
+\contentsline {subsubsection}{Analyse des Composants de la Fonction}{56}{}%
+\contentsline {subsubsection}{Cas d'Utilisation}{57}{}%
+\contentsline {subsection}{\numberline {4.10.5}ResetSourceData}{57}{}%
+\contentsline {subsubsection}{Analyse des Composants de la Fonction}{57}{}%
+\contentsline {subsubsection}{Cas d'Utilisation}{58}{}%
+\contentsline {subsection}{\numberline {4.10.6}ValidateDates}{58}{}%
+\contentsline {subsubsection}{Analyse des Composants de la Fonction}{58}{}%
+\contentsline {subsubsection}{Cas d'Utilisation}{59}{}%
+\contentsline {subsection}{\numberline {4.10.7}ExportRangeAsPDFAndSendEmail2}{59}{}%
+\contentsline {subsubsection}{Analyse des Composants de la Fonction}{59}{}%
+\contentsline {subsection}{\numberline {4.10.8}CreateDropDownListFromColumnM}{61}{}%
+\contentsline {subsubsection}{Analyse des Composants de la Fonction}{61}{}%
+\contentsline {subsubsection}{Cas d'Utilisation}{62}{}%
+\contentsline {subsection}{\numberline {4.10.9}CheckQAndRetrieveEmailAndPost}{62}{}%
+\contentsline {subsubsection}{Analyse des Composants de la Fonction}{62}{}%
+\contentsline {subsubsection}{Cas d'Utilisation}{64}{}%
+\contentsline {section}{\numberline {4.11}module 4}{64}{}%
+\contentsline {subsection}{\numberline {4.11.1}SetDefaultValues}{64}{}%
+\contentsline {subsubsection}{Analyse des Composants de la Fonction}{64}{}%
+\contentsline {subsubsection}{Cas d'Utilisation}{65}{}%
+\contentsline {subsection}{\numberline {4.11.2}ValidateDateInput}{65}{}%
+\contentsline {subsubsection}{Analyse des Composants de la Fonction}{65}{}%
+\contentsline {subsubsection}{Cas d'Utilisation}{65}{}%
+\contentsline {subsection}{\numberline {4.11.3}ValidateTime}{66}{}%
+\contentsline {subsubsection}{Analyse des Composants de la Fonction}{66}{}%
+\contentsline {subsubsection}{Cas d'Utilisation}{66}{}%
+\contentsline {subsection}{\numberline {4.11.4}Stocker}{67}{}%
+\contentsline {subsubsection}{Analyse des Composants de la Fonction}{67}{}%
+\contentsline {subsection}{\numberline {4.11.5}ReinitialiserValeurs}{68}{}%
+\contentsline {subsubsection}{Analyse des Composants de la Fonction}{68}{}%
+\contentsline {subsubsection}{Objectifs et Utilisation de la Fonction}{68}{}%
+\contentsline {subsection}{\numberline {4.11.6}CheckInventoryType}{69}{}%
+\contentsline {subsubsection}{Analyse des Composants de la Fonction}{69}{}%
+\contentsline {subsubsection}{Objectifs et Utilisation de la Fonction}{70}{}%
+\contentsline {subsection}{\numberline {4.11.7}ExportRangeAsPDFAndSendEmail}{70}{}%
+\contentsline {subsubsection}{Analyse des Composants de la Fonction}{70}{}%
+\contentsline {subsubsection}{Objectifs et Utilisation de la Fonction}{71}{}%
+\contentsline {subsection}{\numberline {4.11.8}DailyButton1 Click}{71}{}%
+\contentsline {subsubsection}{Analyse des Composants de la Fonction}{71}{}%
+\contentsline {subsubsection}{Objectifs et Utilisation de la Fonction}{72}{}%
+\contentsline {subsection}{\numberline {4.11.9}CheckQAndRetrieveEmailAndPost2}{72}{}%
+\contentsline {subsubsection}{Analyse des Composants de la Fonction}{72}{}%
+\contentsline {subsubsection}{Objectifs et Utilisation de la Fonction}{73}{}%
+\contentsline {subsection}{\numberline {4.11.10}CreateDropDownListFromColumnM2}{74}{}%
+\contentsline {subsubsection}{Analyse des Composants de la Fonction}{74}{}%
+\contentsline {subsubsection}{Objectifs et Utilisation de la Fonction}{75}{}%
+\contentsline {part}{II\hspace {1em}Développement de l'Application Mobile avec PowerApps }{76}{}%
+\contentsline {chapter}{\numberline {5}Conception de l'application mobile}{77}{}%
+\contentsline {section}{\numberline {5.1}Introduction}{77}{}%
+\contentsline {section}{\numberline {5.2}Page Login}{78}{}%
+\contentsline {subsection}{\numberline {5.2.1}Déscription}{78}{}%
+\contentsline {subsection}{\numberline {5.2.2}Éxplication du code}{78}{}%
+\contentsline {paragraph}{Partie OnVisible}{78}{}%
+\contentsline {paragraph}{Partie Soumission du Formulaire}{79}{}%
+\contentsline {section}{\numberline {5.3}Menu}{80}{}%
+\contentsline {subsection}{\numberline {5.3.1}Déscription}{80}{}%
+\contentsline {subsection}{\numberline {5.3.2}Éxplication du code}{81}{}%
+\contentsline {paragraph}{Gestion des Accès en Fonction du Rôle de l'Utilisateur}{81}{}%
+\contentsline {paragraph}{Affichage des Informations de l'Utilisateur}{81}{}%
+\contentsline {section}{\numberline {5.4}Gestion des mouvements}{82}{}%
+\contentsline {subsection}{\numberline {5.4.1}Déscription}{82}{}%
+\contentsline {subsection}{\numberline {5.4.2}Éxplication du code}{83}{}%
+\contentsline {paragraph}{Mise à Jour des Enregistrements}{83}{}%
+\contentsline {paragraph}{Ajout de Nouveaux Enregistrements}{83}{}%
+\contentsline {paragraph}{Suppression du Dernier Enregistrement}{83}{}%
+\contentsline {paragraph}{supression des articles}{84}{}%
+\contentsline {section}{\numberline {5.5}Gestion de l'inventaire journalière}{85}{}%
+\contentsline {subsection}{\numberline {5.5.1}Déscription}{85}{}%
+\contentsline {subsection}{\numberline {5.5.2}Éxplication du code}{86}{}%
+\contentsline {paragraph}{Mise à Jour des Données}{86}{}%
+\contentsline {paragraph}{Ajout d'Enregistrements à la Collection}{86}{}%
+\contentsline {paragraph}{Suppression du Dernier Enregistrement}{86}{}%
+\contentsline {paragraph}{supression des articles}{86}{}%
+\contentsline {section}{\numberline {5.6}Les boutons}{87}{}%
+\contentsline {subsection}{\numberline {5.6.1}Bouton "Home"}{87}{}%
+\contentsline {subsection}{\numberline {5.6.2}Bouton "Logout"}{87}{}%
+\contentsline {chapter}{Bibliographie}{89}{}%
+\setcounter {tocdepth}{3}

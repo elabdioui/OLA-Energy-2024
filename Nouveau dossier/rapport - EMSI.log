@@ -1,0 +1,1229 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.16)  15 SEP 2024 16:08
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"./rapport - EMSI.tex"
+(rapport - EMSI.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(C:\Program Files\MiKTeX\tex/latex/extsizes\extreport.cls
+Document Class: extreport 1996/10/08 v1.0 Non Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+(C:\Program Files\MiKTeX\tex/latex/base\exscale.sty
+Package: exscale 2018/09/24 v2.1i Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen140
+)
+\c@part=\count187
+\c@chapter=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\c@figure=\count194
+\c@table=\count195
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen141
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+)
+(C:\Program Files\MiKTeX\tex/latex/base\makeidx.sty
+Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
+)
+\@indexfile=\write3
+\openout3 = `"rapport - EMSI.idx"'.
+
+
+Writing index file "rapport - EMSI".idx
+(C:\Program Files\MiKTeX\tex/latex/algorithm2e\algorithm2e.sty
+Package: algorithm2e 2017/07/18 v5.2 algorithms environments
+\c@AlgoLine=\count196
+
+(C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+\algocf@hangindent=\skip50
+
+(C:\Program Files\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count197
+)
+(C:\Program Files\MiKTeX\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(C:\Program Files\MiKTeX\tex/latex/relsize\relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+\skiptotal=\skip51
+\skiplinenumber=\skip52
+\skiprule=\skip53
+\skiphlne=\skip54
+\skiptext=\skip55
+\skiplength=\skip56
+\algomargin=\skip57
+\skipalgocfslide=\skip58
+\algowidth=\dimen144
+\inoutsize=\dimen145
+\inoutindent=\dimen146
+\interspacetitleruled=\dimen147
+\interspacealgoruled=\dimen148
+\interspacetitleboxruled=\dimen149
+\algocf@ruledwidth=\skip59
+\algocf@inoutbox=\box51
+\algocf@inputbox=\box52
+\AlCapSkip=\skip60
+\AlCapHSkip=\skip61
+\algoskipindent=\skip62
+\algocf@nlbox=\box53
+\algocf@hangingbox=\box54
+\algocf@untilbox=\box55
+\algocf@skipuntil=\skip63
+\algocf@capbox=\box56
+\algocf@lcaptionbox=\skip64
+\algoheightruledefault=\skip65
+\algoheightrule=\skip66
+\algotitleheightruledefault=\skip67
+\algotitleheightrule=\skip68
+\c@algocfline=\count198
+\c@algocfproc=\count199
+\c@algocf=\count266
+\algocf@algoframe=\box57
+\algocf@algobox=\box58
+)
+(C:\Program Files\MiKTeX\tex/latex/amscls\amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks18
+\thm@bodyfont=\toks19
+\thm@headfont=\toks20
+\thm@notefont=\toks21
+\thm@headpunct=\toks22
+\thm@preskip=\skip69
+\thm@postskip=\skip70
+\thm@headsep=\skip71
+\dth@everypar=\toks23
+)
+\c@theorem=\count267
+\c@definition=\count268
+\c@exemple=\count269
+
+(C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count270
+)
+(C:\Program Files\MiKTeX\tex/latex/tocbibind\tocbibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) (C:\Program Files\MiKTeX\tex/generic/iftex\ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+
+(C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+(C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks24
+\inpenc@posthook=\toks25
+)
+(C:\Program Files\MiKTeX\tex/latex/lm\lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(C:\Program Files\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count271
+\lst@gtempboxa=\box59
+\lst@token=\toks26
+\lst@length=\count272
+\lst@currlwidth=\dimen150
+\lst@column=\count273
+\lst@pos=\count274
+\lst@lostspace=\dimen151
+\lst@width=\dimen152
+\lst@newlines=\count275
+\lst@lineno=\count276
+\lst@maxwidth=\dimen153
+
+(C:\Program Files\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count277
+\lst@skipnumbers=\count278
+\lst@framebox=\box60
+)
+(C:\Program Files\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
+))
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+
+(C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+)
+(C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+)
+(C:\Program Files\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+)
+(C:\Program Files\MiKTeX\tex/latex/glossaries/base\glossaries.sty
+Package: glossaries 2024/04/03 v4.54 (NLCT)
+
+(C:\Program Files\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Program Files\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Program Files\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks27
+\XKV@tempa@toks=\toks28
+)
+\XKV@depth=\count279
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Program Files\MiKTeX\tex/latex/mfirstuc\mfirstuc.sty
+Package: mfirstuc 2022/10/14 v2.08 (NLCT)
+\@glsmfirst=\toks29
+\@glsmrest=\toks30
+)
+(C:\Program Files\MiKTeX\tex/latex/xfor\xfor.sty
+Package: xfor 2009/02/05 v1.05 (NLCT)
+)
+(C:\Program Files\MiKTeX\tex/latex/datatool\datatool-base.sty
+Package: datatool-base 2019/09/27 v2.32 (NLCT)
+
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip72
+
+For additional information on amsmath, use the `?' option.
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks31
+\ex@=\dimen154
+))
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen155
+)
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count280
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count281
+\leftroot@=\count282
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count283
+\DOTSCASE@=\count284
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box61
+\strutbox@=\box62
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen156
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count285
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count286
+\dotsspace@=\muskip16
+\c@parentequation=\count287
+\dspbrk@lvl=\count288
+\tag@help=\toks32
+\row@=\count289
+\column@=\count290
+\maxfields@=\count291
+\andhelp@=\toks33
+\eqnshift@=\dimen157
+\alignsep@=\dimen158
+\tagshift@=\dimen159
+\tagwidth@=\dimen160
+\totwidth@=\dimen161
+\lineht@=\dimen162
+\@envbody=\toks34
+\multlinegap=\skip73
+\multlinetaggap=\skip74
+\mathdisplay@stack=\toks35
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Program Files\MiKTeX\tex/latex/substr\substr.sty
+Package: substr 2009/10/20 v1.2 Handle substrings
+\c@su@anzahl=\count292
+)
+(C:\Program Files\MiKTeX\tex/latex/datatool\datatool-fp.sty
+Package: datatool-fp 2019/09/27 v2.32 (NLCT)
+
+(C:\Program Files\MiKTeX\tex/latex/fp\fp.sty
+Package: fp 1995/04/02
+
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+(C:\Program Files\MiKTeX\tex/latex/fp\defpattern.sty
+Package: defpattern 1994/10/12
+\actioncount=\count293
+)
+(C:\Program Files\MiKTeX\tex/latex/fp\fp-basic.sty
+Package: fp-basic 1996/05/13
+\FP@xs=\count294
+\FP@xia=\count295
+\FP@xib=\count296
+\FP@xfa=\count297
+\FP@xfb=\count298
+\FP@rega=\count299
+\FP@regb=\count300
+\FP@regs=\count301
+\FP@times=\count302
+)
+(C:\Program Files\MiKTeX\tex/latex/fp\fp-addons.sty
+Package: fp-addons 1995/03/15
+)
+(C:\Program Files\MiKTeX\tex/latex/fp\fp-snap.sty
+Package: fp-snap 1995/04/05
+)
+(C:\Program Files\MiKTeX\tex/latex/fp\fp-exp.sty
+Package: fp-exp 1995/04/03
+)
+(C:\Program Files\MiKTeX\tex/latex/fp\fp-trigo.sty
+Package: fp-trigo 1995/04/14
+)
+(C:\Program Files\MiKTeX\tex/latex/fp\fp-pas.sty
+Package: fp-pas 1994/08/29
+)
+(C:\Program Files\MiKTeX\tex/latex/fp\fp-random.sty
+Package: fp-random 1995/02/23
+\FPseed=\count303
+)
+(C:\Program Files\MiKTeX\tex/latex/fp\fp-eqn.sty
+Package: fp-eqn 1995/04/03
+)
+(C:\Program Files\MiKTeX\tex/latex/fp\fp-upn.sty
+Package: fp-upn 1996/10/21
+)
+(C:\Program Files\MiKTeX\tex/latex/fp\fp-eval.sty
+Package: fp-eval 1995/04/03
+)))
+\@dtl@toks=\toks36
+\@dtl@tmpcount=\count304
+\dtl@tmplength=\skip75
+\dtl@sortresult=\count305
+\@dtl@numgrpsepcount=\count306
+\@dtl@datatype=\count307
+\dtl@codeA=\count308
+\dtl@codeB=\count309
+\@dtl@foreach@level=\count310
+)
+\gls@level=\count311
+\@gls@tmpb=\toks37
+\gls@tmplen=\skip76
+\glskeylisttok=\toks38
+\glslabeltok=\toks39
+\glsshorttok=\toks40
+\glslongtok=\toks41
+
+(C:\Program Files\MiKTeX\tex/latex/glossaries/styles\glossary-hypernav.sty
+Package: glossary-hypernav 2024/04/03 v4.54 (NLCT)
+)
+(C:\Program Files\MiKTeX\tex/latex/glossaries/styles\glossary-list.sty
+Package: glossary-list 2024/04/03 v4.54 (NLCT)
+\glslistdottedwidth=\skip77
+)
+(C:\Program Files\MiKTeX\tex/latex/glossaries/styles\glossary-long.sty
+Package: glossary-long 2024/04/03 v4.54 (NLCT)
+
+(C:\Program Files\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
+\LTleft=\skip78
+\LTright=\skip79
+\LTpre=\skip80
+\LTpost=\skip81
+\LTchunksize=\count312
+\LTcapwidth=\dimen163
+\LT@head=\box63
+\LT@firsthead=\box64
+\LT@foot=\box65
+\LT@lastfoot=\box66
+\LT@gbox=\box67
+\LT@cols=\count313
+\LT@rows=\count314
+\c@LT@tables=\count315
+\c@LT@chunks=\count316
+\LT@p@ftn=\toks42
+)
+\glsdescwidth=\skip82
+\glspagelistwidth=\skip83
+)
+(C:\Program Files\MiKTeX\tex/latex/glossaries/styles\glossary-super.sty
+Package: glossary-super 2024/04/03 v4.54 (NLCT)
+
+(C:\Program Files\MiKTeX\tex/latex/supertabular\supertabular.sty
+Package: supertabular 2020/02/02 v4.1g the supertabular environment
+\c@tracingst=\count317
+\ST@wd=\dimen164
+\ST@rightskip=\skip84
+\ST@leftskip=\skip85
+\ST@parfillskip=\skip86
+\ST@pageleft=\dimen165
+\ST@headht=\dimen166
+\ST@tailht=\dimen167
+\ST@pagesofar=\dimen168
+\ST@pboxht=\dimen169
+\ST@lineht=\dimen170
+\ST@prevht=\dimen171
+\ST@toadd=\dimen172
+\ST@dimen=\dimen173
+\ST@pbox=\box68
+))
+(C:\Program Files\MiKTeX\tex/latex/glossaries/styles\glossary-tree.sty
+Package: glossary-tree 2024/04/03 v4.54 (NLCT)
+\glstreeindent=\skip87
+))
+\glswrite=\write4
+\glo@main@file=\write5
+\openout5 = `"rapport - EMSI.glo"'.
+
+Package glossaries Info: Writing glossary file "rapport - EMSI".glo on input li
+ne 197.
+\glo@acronym@file=\write6
+\openout6 = `"rapport - EMSI.acn"'.
+
+Package glossaries Info: Writing glossary file "rapport - EMSI".acn on input li
+ne 197.
+
+(C:\Program Files\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2024/01/07 v24.1 The Babel package
+\babel@savecnt=\count318
+\U@D=\dimen174
+\l@unhyphenated=\language79
+
+(C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count319
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Program Files\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Program Files\MiKTeX\tex/generic/babel-french\french.ldf
+Language: french 2024-02-29 v3.5s French support from the babel system
+Package babel Info: Hyphen rules for 'acadian' set to \l@french
+(babel)             (\language22). Reported on input line 91.
+Package babel Info: Hyphen rules for 'canadien' set to \l@french
+(babel)             (\language22). Reported on input line 92.
+\FB@stdchar=\count320
+Package babel Info: Making : an active character on input line 420.
+Package babel Info: Making ; an active character on input line 421.
+Package babel Info: Making ! an active character on input line 422.
+Package babel Info: Making ? an active character on input line 423.
+\FBguill@level=\count321
+\FBold@everypar=\toks43
+\FB@Mht=\dimen175
+\mc@charclass=\count322
+\mc@charfam=\count323
+\mc@charslot=\count324
+\std@mcc=\count325
+\dec@mcc=\count326
+\FB@parskip=\dimen176
+\listindentFB=\dimen177
+\descindentFB=\dimen178
+\labelindentFB=\dimen179
+\labelwidthFB=\dimen180
+\leftmarginFB=\dimen181
+\parindentFFN=\dimen182
+\FBfnindent=\dimen183
+))
+(C:\Program Files\MiKTeX\tex/generic/babel/locale/fr\babel-french.tex
+Package babel Info: Importing font and identification data for french
+(babel)             from babel-fr.ini. Reported on input line 11.
+)
+(C:\Program Files\MiKTeX\tex/latex/carlisle\scalefnt.sty)
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 20
+8.
+
+(C:\Program Files\MiKTeX\tex/latex/lm\t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count327
+\l__pdf_internal_box=\box69
+)
+(rapport - EMSI.aux
+
+LaTeX Warning: Label `fig:formulaire des mouvements' multiply defined.
+
+)
+\openout1 = `"rapport - EMSI.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 208.
+LaTeX Font Info:    ... okay on input line 208.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 208.
+LaTeX Font Info:    ... okay on input line 208.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 208.
+LaTeX Font Info:    ... okay on input line 208.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 208.
+LaTeX Font Info:    ... okay on input line 208.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 208.
+LaTeX Font Info:    ... okay on input line 208.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 208.
+LaTeX Font Info:    ... okay on input line 208.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 208.
+LaTeX Font Info:    ... okay on input line 208.
+ (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count328
+\scratchdimen=\dimen184
+\scratchbox=\box70
+\nofMPsegments=\count329
+\nofMParguments=\count330
+\everyMPshowfont=\toks44
+\MPscratchCnt=\count331
+\MPscratchDim=\dimen185
+\MPnumerator=\count332
+\makeMPintoPDFobject=\count333
+\everyMPtoPDFconversion=\toks45
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+\c@lstlisting=\count334
+LaTeX Info: Redefining \degres on input line 208.
+
+
+Package french.ldf Warning: Please load the "listings" package
+(french.ldf)                AFTER babel/french; reported on input line 208.
+
+LaTeX Info: Redefining \up on input line 208.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 2
+22.
+(C:\Program Files\MiKTeX\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2
+22.
+
+(C:\Program Files\MiKTeX\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+222.
+
+(C:\Program Files\MiKTeX\tex/latex/lm\omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+222.
+
+(C:\Program Files\MiKTeX\tex/latex/lm\omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 222.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 222.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 222.
+<EMSI_logo2.png, id=1, 365.365pt x 79.29625pt>
+File: EMSI_logo2.png Graphic file (type png)
+<use EMSI_logo2.png>
+Package pdftex.def Info: EMSI_logo2.png  used on input line 231.
+(pdftex.def)             Requested size: 146.1434pt x 31.71793pt.
+<1719353722626.jpeg, id=3, 579.66562pt x 185.19188pt>
+File: 1719353722626.jpeg Graphic file (type jpg)
+<use 1719353722626.jpeg>
+Package pdftex.def Info: 1719353722626.jpeg  used on input line 236.
+(pdftex.def)             Requested size: 144.91605pt x 46.29785pt.
+<ola-energy-041-removebg-preview.png, id=4, 662.475pt x 331.2375pt>
+File: ola-energy-041-removebg-preview.png Graphic file (type png)
+<use ola-energy-041-removebg-preview.png>
+Package pdftex.def Info: ola-energy-041-removebg-preview.png  used on input lin
+e 241.
+(pdftex.def)             Requested size: 112.61926pt x 56.30962pt.
+
+
+LaTeX Font Warning: Font shape `T1/lmr/bx/sc' undefined
+(Font)              using `T1/lmr/bx/n' instead on input line 263.
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 285.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 285.
+[1
+
+\openout4 = `"rapport - EMSI.ist"'.
+
+{C:/Users/pc/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files
+/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc} <./EMSI_logo2.png> <./1719353722626.jpeg>
+ <./ola-energy-041-removebg-preview.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
+
+ []
+
+[1
+
+] [2
+
+] [3]
+Underfull \hbox (badness 10000) in paragraph at lines 376--386
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--386
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--386
+
+ []
+
+[4
+
+] (rapport - EMSI.toc [5
+
+] [6])
+\tf@toc=\write7
+\openout7 = `"rapport - EMSI.toc"'.
+
+ [7] (rapport - EMSI.lof)
+\tf@lof=\write8
+\openout8 = `"rapport - EMSI.lof"'.
+
+ [8
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 403--416
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 403--416
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 403--416
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 403--416
+
+ []
+
+[1
+
+
+]
+Chapitre 1.
+[2
+
+]
+<Organigramme OLA Energy-1.png, id=49, 963.72044pt x 542.025pt>
+File: Organigramme OLA Energy-1.png Graphic file (type png)
+<use Organigramme OLA Energy-1.png>
+Package pdftex.def Info: Organigramme OLA Energy-1.png  used on input line 451.
+
+(pdftex.def)             Requested size: 358.50314pt x 201.63782pt.
+ [3 <./Organigramme OLA Energy-1.png>] [4]
+Chapitre 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 471--481
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 471--481
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 471--481
+
+ []
+
+[5
+
+]
+<Capture1.png, id=61, 950.3505pt x 502.87875pt>
+File: Capture1.png Graphic file (type png)
+<use Capture1.png>
+Package pdftex.def Info: Capture1.png  used on input line 488.
+(pdftex.def)             Requested size: 460.9315pt x 243.89589pt.
+<Capture4.png, id=62, 392.06474pt x 65.043pt>
+File: Capture4.png Graphic file (type png)
+<use Capture4.png>
+Package pdftex.def Info: Capture4.png  used on input line 497.
+(pdftex.def)             Requested size: 358.50314pt x 59.47504pt.
+<Capture3.png, id=63, 1140.6615pt x 219.219pt>
+File: Capture3.png Graphic file (type png)
+<use Capture3.png>
+Package pdftex.def Info: Capture3.png  used on input line 506.
+(pdftex.def)             Requested size: 460.9315pt x 88.58249pt.
+ [6 <./Capture1.png> <./Capture4.png>]
+<Capture2.png, id=69, 283.65974pt x 152.9715pt>
+File: Capture2.png Graphic file (type png)
+<use Capture2.png>
+Package pdftex.def Info: Capture2.png  used on input line 523.
+(pdftex.def)             Requested size: 358.50314pt x 193.33328pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[7 <./Capture3.png>] [8 <./Capture2.png>] [9] [10] [11] [12] [13]
+Overfull \hbox (1.10661pt too wide) in paragraph at lines 687--688
+[]\T1/lmr/bx/n/12 Intégration de Fonc-tion-na-li-tés Spé-ci-fiques au Mo-bile :
+ \T1/lmr/m/n/12 Les ap-pli-ca-tions mo-biles peuvent
+ []
+
+[14] [15]
+Chapitre 3.
+<USE CASE.png, id=100, 772.0845pt x 483.60675pt>
+File: USE CASE.png Graphic file (type png)
+<use USE CASE.png>
+Package pdftex.def Info: USE CASE.png  used on input line 732.
+(pdftex.def)             Requested size: 512.1496pt x 320.79749pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[16
+
+] [17 <./USE CASE.png>] [18] [19]
+<Microsoft Excel VBA.png, id=115, 609.77812pt x 331.2375pt>
+File: Microsoft Excel VBA.png Graphic file (type png)
+<use Microsoft Excel VBA.png>
+Package pdftex.def Info: Microsoft Excel VBA.png  used on input line 798.
+(pdftex.def)             Requested size: 358.50314pt x 194.7461pt.
+ [20 <./Microsoft Excel VBA.png>]
+<powerapps.png, id=120, 1830.84pt x 690.58pt>
+File: powerapps.png Graphic file (type png)
+<use powerapps.png>
+Package pdftex.def Info: powerapps.png  used on input line 841.
+(pdftex.def)             Requested size: 358.50314pt x 135.2263pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[21] [22 <./powerapps.png>]
+Overfull \hbox (20.70213pt too wide) in paragraph at lines 881--882
+[]\T1/lmr/m/n/12 Cette mé-tho-do-lo-gie de tra-vail, qui a dé-buté par la re-co
+ns-truc-tion mi-nu-tieuse du fi-chier Ex-cel BASSA.xlsm,
+ []
+
+[23] [24
+
+]
+Chapitre 4.
+<Logic.png, id=135, 175.25475pt x 249.93375pt>
+File: Logic.png Graphic file (type png)
+<use Logic.png>
+Package pdftex.def Info: Logic.png  used on input line 898.
+(pdftex.def)             Requested size: 204.8567pt x 292.15434pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[25
+
+] [26 <./Logic.png>]
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 9
+42.
+ (C:\Program Files\MiKTeX\tex/latex/lm\t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+[27] [28] [29]
+LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <12> not available
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 1043.
+ [30] [31] [32] [33]
+Overfull \hbox (24.65012pt too wide) in paragraph at lines 1167--1168
+\T1/lmr/m/n/12 contient des va-leurs, celles-ci sont conver-ties en une liste s
+é-pa-rée par des vir-gules (\T1/lmtt/m/n/12 validationList\T1/lmr/m/n/12 ).
+ []
+
+[34] [35] [36] [37] [38]
+Overfull \hbox (55.07443pt too wide) in paragraph at lines 1423--1424
+[]\T1/lmr/bx/n/12 Configuration de la Liste Dé-rou-lante \T1/lmr/m/n/12 : La li
+ste des op-tions est four-nie via \T1/lmtt/m/n/12 Formula1:=Join(LPGS,
+ []
+
+
+Overfull \hbox (10.80771pt too wide) in paragraph at lines 1424--1425
+[]\T1/lmr/bx/n/12 Paramètres Ad-di-tion-nels \T1/lmr/m/n/12 : Les pro-prié-tés 
+\T1/lmtt/m/n/12 .IgnoreBlank\T1/lmr/m/n/12 , \T1/lmtt/m/n/12 .InCellDropdown\T1
+/lmr/m/n/12 , \T1/lmtt/m/n/12 .ShowInput\T1/lmr/m/n/12 ,
+ []
+
+[39] [40]
+Overfull \hbox (5.28992pt too wide) in paragraph at lines 1501--1502
+[]\T1/lmr/bx/n/12 OpenAfterPublish \T1/lmr/m/n/12 : Ne pas ou-vrir au-to-ma-ti-
+que-ment le fi-chier après l'ex-por-ta-tion (\T1/lmtt/m/n/12 False\T1/lmr/m/n/1
+2 ). 
+ []
+
+[41] [42] [43] [44]
+Overfull \hbox (19.36661pt too wide) in paragraph at lines 1680--1681
+[]\T1/lmr/m/n/12 La feuille de cal-cul nom-mée \T1/lmtt/m/n/12 "Menu" \T1/lmr/m
+/n/12 est ren-due vi-sible en uti-li-sant la pro-priété \T1/lmtt/m/n/12 xlSheet
+Visible\T1/lmr/m/n/12 . 
+ []
+
+[45] [46]
+Overfull \hbox (0.5584pt too wide) in paragraph at lines 1767--1768
+\T1/lmr/m/n/12 vers ob-jets de forme sur les feuilles \T1/lmtt/m/n/12 "Menu"\T1
+/lmr/m/n/12 , \T1/lmtt/m/n/12 "Movement Sheet"\T1/lmr/m/n/12 , et \T1/lmtt/m/n/
+12 "Daily inventory"\T1/lmr/m/n/12 . 
+ []
+
+[47] [48] [49] [50] [51]
+Overfull \hbox (3.82965pt too wide) in paragraph at lines 1993--1994
+[]\T1/lmtt/m/n/12 If endDate < startDate Then \T1/lmr/m/n/12 : La fonc-tion vé-
+ri-fie si \T1/lmtt/m/n/12 endDate \T1/lmr/m/n/12 est an-té-rieure à \T1/lmtt/m/
+n/12 startDate\T1/lmr/m/n/12 . 
+ []
+
+[52]
+Overfull \hbox (1.9022pt too wide) in paragraph at lines 2044--2045
+[]\T1/lmtt/m/n/12 lastRow = ws.Cells(tableEndRow, "F").End(xlUp).Row \T1/lmr/m/
+n/12 : Trouve la der-nière ligne rem-
+ []
+
+[53]
+Overfull \hbox (0.16351pt too wide) in paragraph at lines 2069--2070
+[]\T1/lmtt/m/n/12 ws.Rows(templateRow).Copy Destination:=ws.Rows(lastRow + 1) \
+T1/lmr/m/n/12 : Co-pie les for-mats
+ []
+
+
+Overfull \hbox (0.28273pt too wide) in paragraph at lines 2075--2076
+[]\T1/lmtt/m/n/12 ws.Rows(lastRow + 1).SpecialCells(xlCellTypeConstants).ClearC
+ontents \T1/lmr/m/n/12 : Ef-face
+ []
+
+
+Overfull \hbox (10.52635pt too wide) in paragraph at lines 2081--2082
+[]\T1/lmtt/m/n/12 lastRow = ws.Cells(tableEndRow, "F").End(xlUp).Row \T1/lmr/m/
+n/12 : Met à jour la va-riable \T1/lmtt/m/n/12 lastRow
+ []
+
+
+Overfull \hbox (0.5619pt too wide) in paragraph at lines 2087--2088
+[]\T1/lmtt/m/n/12 ws.Cells(lastRow + 1, 6).Value = ws.Cells(lastRow, 6).Value +
+ 1 \T1/lmr/m/n/12 : Nu-mé-rote la
+ []
+
+[54] [55]
+Overfull \hbox (15.90031pt too wide) in paragraph at lines 2221--2222
+[]\T1/lmtt/m/n/12 InsertDataIntoDestination wsSource, wsDestination, startRow, 
+endRow, success \T1/lmr/m/n/12 :
+ []
+
+
+Overfull \hbox (5.47505pt too wide) in paragraph at lines 2221--2222
+\T1/lmr/m/n/12 Ap-pelle la pro-cé-dure \T1/lmtt/m/n/12 InsertDataIntoDestinatio
+n \T1/lmr/m/n/12 pour trans-fé-rer les don-nées de \T1/lmtt/m/n/12 wsSource
+ []
+
+
+Overfull \hbox (44.96469pt too wide) in paragraph at lines 2227--2228
+[]\T1/lmtt/m/n/12 Call ExportRangeAsPDFAndSendEmail2 \T1/lmr/m/n/12 : Ap-pelle 
+la pro-cé-dure \T1/lmtt/m/n/12 ExportRangeAsPDFAndSendEmail2
+ []
+
+
+Overfull \hbox (7.91467pt too wide) in paragraph at lines 2228--2229
+[]\T1/lmtt/m/n/12 ResetSourceData wsSource, startRow, endRow \T1/lmr/m/n/12 : A
+p-pelle la pro-cé-dure \T1/lmtt/m/n/12 ResetSourceData
+ []
+
+[56]
+Overfull \hbox (4.87254pt too wide) in paragraph at lines 2273--2274
+[]\T1/lmtt/m/n/12 For i = startRow To endRow \T1/lmr/m/n/12 : Boucle à tra-vers
+ les lignes dé-fi-nies par \T1/lmtt/m/n/12 startRow \T1/lmr/m/n/12 et \T1/lmtt/
+m/n/12 endRow\T1/lmr/m/n/12 . 
+ []
+
+[57]
+Overfull \hbox (7.21873pt too wide) in paragraph at lines 2290--2291
+[]\T1/lmtt/m/n/12 For Each cell In wsSource.Range("Q21:Q" & lastRowNames) \T1/l
+mr/m/n/12 : Boucle à tra-vers chaque
+ []
+
+
+Overfull \hbox (47.07527pt too wide) in paragraph at lines 2293--2294
+[]\T1/lmtt/m/n/12 wsSource.Range(wsSource.Cells(cell.Row, "S"), wsSource.Cells(
+cell.Row, "T")).value
+ []
+
+
+Overfull \hbox (9.73022pt too wide) in paragraph at lines 2335--2336
+[]\T1/lmtt/m/n/12 MsgBox "Erreur : La date doit etre rempli.", vbCritical \T1/l
+mr/m/n/12 : Af-fiche un mes-sage d'er-
+ []
+
+[58]
+Overfull \hbox (3.55031pt too wide) in paragraph at lines 2342--2343
+[]\T1/lmtt/m/n/12 If Format(startDate, dateFormat) = Format(startDateValue, dat
+eFormat) Then \T1/lmr/m/n/12 :
+ []
+
+
+Overfull \hbox (71.77528pt too wide) in paragraph at lines 2345--2346
+[]\T1/lmtt/m/n/12 MsgBox "La date n'est pas au format correct. Veuillez utilise
+r le format jj/mm/aaaa.",
+ []
+
+[59]
+Overfull \hbox (1.23773pt too wide) in paragraph at lines 2394--2395
+[]\T1/lmtt/m/n/12 Set ws = ThisWorkbook.Sheets("Movement Sheet") \T1/lmr/m/n/12
+ : Ré-fé-rence la feuille de cal-cul "Mo-
+ []
+
+
+Overfull \hbox (28.25032pt too wide) in paragraph at lines 2402--2403
+[]\T1/lmtt/m/n/12 magasin_text = Sheets("Menu").Shapes("magasin_text").TextFram
+e.Characters.Text \T1/lmr/m/n/12 :
+ []
+
+
+Overfull \hbox (4.66515pt too wide) in paragraph at lines 2403--2404
+[]\T1/lmtt/m/n/12 currentDate = Format(Date, "yyyy-mm-dd") \T1/lmr/m/n/12 : For
+-mate la date ac-tuelle au for-mat "yyyy-
+ []
+
+
+Overfull \hbox (40.60033pt too wide) in paragraph at lines 2404--2405
+[]\T1/lmtt/m/n/12 pdfFileName = pdfPath & magasin_text & " " & currentDate & " 
+Movement sheet.pdf" \T1/lmr/m/n/12 :
+ []
+
+
+Overfull \hbox (151.75038pt too wide) in paragraph at lines 2420--2421
+[]\T1/lmtt/m/n/12 exportRange.ExportAsFixedFormat Type:=xlTypePDF, Filename:=pd
+fFileName, Quality:=xlQualityStandard \T1/lmr/m/n/12 :
+ []
+
+[60]
+Overfull \hbox (4.13608pt too wide) in paragraph at lines 2477--2478
+[]\T1/lmtt/m/n/12 Set wsDest = ThisWorkbook.Sheets("Movement Sheet") \T1/lmr/m/
+n/12 : Ré-fé-rence la feuille \T1/lmtt/m/n/12 Movement
+ []
+
+[61]
+Overfull \hbox (2.95018pt too wide) in paragraph at lines 2503--2504
+[]\T1/lmtt/m/n/12 .Add Type:=xlValidateList, AlertStyle:=xlValidAlertStop, Form
+ula1:="=" &
+ []
+
+[62]
+Overfull \hbox (4.13608pt too wide) in paragraph at lines 2545--2546
+[]\T1/lmtt/m/n/12 Set wsDest = ThisWorkbook.Sheets("Movement Sheet") \T1/lmr/m/
+n/12 : Ré-fé-rence la feuille \T1/lmtt/m/n/12 Movement
+ []
+
+
+Overfull \hbox (108.52536pt too wide) in paragraph at lines 2557--2558
+[]\T1/lmtt/m/n/12 For Each cell In wsDest.Range("Q21:Q" & wsDest.Cells(wsDest.R
+ows.Count, "Q").End(xlUp).Row) \T1/lmr/m/n/12 :
+ []
+
+
+Overfull \hbox (11.60094pt too wide) in paragraph at lines 2568--2569
+[]\T1/lmtt/m/n/12 wsDest.Range("R" & targetRow).Value = wsData.Range("Q" & foun
+dRow).Value \T1/lmr/m/n/12 : Ré-
+ []
+
+
+Overfull \hbox (11.60094pt too wide) in paragraph at lines 2569--2570
+[]\T1/lmtt/m/n/12 wsDest.Range("S" & targetRow).Value = wsData.Range("P" & foun
+dRow).Value \T1/lmr/m/n/12 : Ré-
+ []
+
+
+Overfull \hbox (7.67786pt too wide) in paragraph at lines 2574--2575
+[]\T1/lmtt/m/n/12 MsgBox "Erreur " & Err.Number & ": " & Err.Description, vbCri
+tical \T1/lmr/m/n/12 : Af-fiche un
+ []
+
+[63]
+Overfull \hbox (5.16995pt too wide) in paragraph at lines 2591--2592
+[]\T1/lmtt/m/n/12 Dim wsDaily As Worksheet \T1/lmr/m/n/12 : Va-riable pour ré-f
+é-ren-cer la feuille de cal-cul \T1/lmtt/m/n/12 Daily inventory
+ []
+
+
+Overfull \hbox (53.25027pt too wide) in paragraph at lines 2612--2613
+[]\T1/lmtt/m/n/12 MsgBox "La date était invalide. Elle a été définie à aujourd'
+hui : " & Format(Date,
+ []
+
+
+Overfull \hbox (4.36082pt too wide) in paragraph at lines 2626--2627
+[]\T1/lmtt/m/n/12 MsgBox "Erreur Automation: " & Err.Description, vbCritical, "
+Erreur" \T1/lmr/m/n/12 : Af-fiche
+ []
+
+[64] [65]
+Overfull \hbox (2.0206pt too wide) in paragraph at lines 2708--2709
+[]\T1/lmtt/m/n/12 Set ws = ThisWorkbook.Sheets("Daily inventory") \T1/lmr/m/n/1
+2 : As-so-cie la feuille de cal-cul \T1/lmtt/m/n/12 Daily
+ []
+
+[66]
+Overfull \hbox (4.75032pt too wide) in paragraph at lines 2793--2794
+[]\T1/lmtt/m/n/12 If IsEmpty(dateValue) Or IsEmpty(typeInventaire) Or IsEmpty(r
+egAdjustValue) Or
+ []
+
+
+Overfull \hbox (28.55026pt too wide) in paragraph at lines 2801--2802
+[]\T1/lmtt/m/n/12 If cellValue <> 0 And Not IsEmpty(articleValue) And Not IsEmp
+ty(emballageValue)
+ []
+
+[67]
+Overfull \hbox (5.59155pt too wide) in paragraph at lines 2835--2836
+[]\T1/lmtt/m/n/12 lastRowNames = wsDaily.Cells(wsDaily.Rows.Count, "J").End(xlU
+p).Row + 2 \T1/lmr/m/n/12 : Trouve
+ []
+
+[68] [69] [70] [71] [72] [73]
+Overfull \hbox (3.4322pt too wide) in paragraph at lines 3113--3114
+[]\T1/lmtt/m/n/12 lastRow = wsData.Cells(wsData.Rows.Count, "M").End(xlUp).Row 
+\T1/lmr/m/n/12 : Dé-ter-mine le nu-
+ []
+
+[74] [75] [76
+
+]
+Chapitre 5.
+[77
+
+]
+<Login.png, id=309, 309.5565pt x 453.49425pt>
+File: Login.png Graphic file (type png)
+<use Login.png>
+Package pdftex.def Info: Login.png  used on input line 3177.
+(pdftex.def)             Requested size: 230.46574pt x 337.63565pt.
+ [78 <./Login.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 3192--3196
+
+ []
+
+[79]
+<menu.jpg, id=317, 401.24907pt x 582.67688pt>
+File: menu.jpg Graphic file (type jpg)
+<use menu.jpg>
+Package pdftex.def Info: menu.jpg  used on input line 3201.
+(pdftex.def)             Requested size: 230.46574pt x 334.68097pt.
+ [80 <./menu.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 3234--3238
+
+ []
+
+[81]
+<mv.png, id=324, 229.45724pt x 442.65375pt>
+File: mv.png Graphic file (type png)
+<use mv.png>
+Package pdftex.def Info: mv.png  used on input line 3242.
+(pdftex.def)             Requested size: 230.46574pt x 444.60464pt.
+ [82 <./mv.png>] [83]
+Underfull \hbox (badness 10000) in paragraph at lines 3274--3281
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3274--3281
+
+ []
+
+[84]
+<di.png, id=336, 296.90926pt x 443.85825pt>
+File: di.png Graphic file (type png)
+<use di.png>
+Package pdftex.def Info: di.png  used on input line 3287.
+(pdftex.def)             Requested size: 230.46574pt x 344.5284pt.
+ [85 <./di.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 3318--3325
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3318--3325
+
+ []
+
+[86]
+Overfull \hbox (14.14888pt too wide) in paragraph at lines 3329--3330
+\T1/lmr/m/n/12 ton "Home", l'ap-pli-ca-tion le re-di-rige vers l'écran ap-pelé 
+"MENU". L'ins-truc-tion \T1/lmtt/m/n/12 ScreenTransition.Fade
+ []
+
+[87]
+Underfull \hbox (badness 10000) in paragraph at lines 3340--3350
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3340--3350
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3340--3350
+
+ []
+
+(rapport - EMSI.bbl [88
+
+]) [89
+
+]
+No file "rapport - EMSI".gls.
+No file "rapport - EMSI".acr.
+No file "rapport - EMSI".ind.
+[90
+
+] (rapport - EMSI.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 13363 strings out of 474485
+ 210855 string characters out of 5753558
+ 1996542 words of memory out of 5000000
+ 35427 multiletter control sequences out of 15000+600000
+ 637459 words of font info for 76 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 94i,8n,93p,2352b,1937s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/M
+iKTeX/fonts/type1/public/lm/lmbxi10.pfb><C:/Program Files/MiKTeX/fonts/type1/pu
+blic/lm/lmcsc10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C
+:/Program Files/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Program Files/MiKTeX
+/fonts/type1/public/lm/lmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/
+lmr9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Program 
+Files/MiKTeX/fonts/type1/public/lm/lmtk10.pfb><C:/Program Files/MiKTeX/fonts/ty
+pe1/public/lm/lmtt10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmtt12.
+pfb>
+Output written on "rapport - EMSI.pdf" (99 pages, 1449147 bytes).
+PDF statistics:
+ 407 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+
